@@ -32,12 +32,15 @@ h1{
     width: 50%;
 }
 
+a{
+    color: lightskyblue;
+}
+
 .col>a{
     display: block;
     margin: 0 auto;
     padding: 5px;
     text-align: center;
-    color: lightskyblue;
 }
 
 img{
